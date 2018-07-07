@@ -1,0 +1,25 @@
+{
+  "name": "tryordefault",
+  "version": "1.0.0",
+  "description": "Try to execute a function, return default value if failed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minhnhut/try-or-default.git"
+  },
+  "keywords": [
+    "try",
+    "catch",
+    "default",
+    "async"
+  ],
+  "author": "Minh Nhut",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/minhnhut/try-or-default/issues"
+  },
+  "homepage": "https://github.com/minhnhut/try-or-default#readme"
+}
